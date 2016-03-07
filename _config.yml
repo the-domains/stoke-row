@@ -1,0 +1,28 @@
+name: Stoke Row
+favicon: null
+layout_spectrum: 0.61430056206882
+typography_spectrum: 0.1456756533589214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8237815801985562
+  lightness: 0.9039367840159684
+  saturation: 0.7547092109452933
+  rhythmicContrast: 0.8797807744704187
+purpose: []
